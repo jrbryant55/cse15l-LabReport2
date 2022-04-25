@@ -24,7 +24,7 @@
 ---
 * # Code Change 3:
 ![Link](9.png)
-![Link](10png)
+![Link](10.png)
 * ## Link to test file that failed: 
 [Link](https://github.com/jrbryant55/markdown-parser/commit/038be8706c91573522e6d7ab6ad6fcf14d7febaa) (bottom file)
 * ## The symptom of the failure inducing input: 
